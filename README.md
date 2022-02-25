@@ -6,3 +6,4 @@ It's so recommended that you first read this before going further in this reposi
 And don't forget to fork this repository to share the code with your fellows.
 
 This repository serves to show you that i have learnt how to work with Git and Github.
+It now includes the steps to Git
